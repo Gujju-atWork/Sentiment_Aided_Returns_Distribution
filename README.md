@@ -2,17 +2,17 @@
 # 📈 Returns Distribution Analysis 
 ## *AI-Powered Market Prediction Using Sentiment & Technical Fusion*
 
-**Status:** Active Development | **Language:** Python 3.8+ | **Framework:** TensorFlow 2.0+ | **License:** MIT
+**Status:** Active Development | **Language:** Python 3.8+ | **Framework:** TensorFlow 2.0+ | 
 
 *Revolutionizing quantitative finance through multi-modal deep learning*
 
 ---
 
-## 🚀 **Project Overview**
+##  **Project Overview**
 
 A cutting-edge financial machine learning system that predicts next-day market returns by intelligently fusing **technical analysis** with **news sentiment analysis**. Our dual-CNN architecture processes 44 engineered technical features alongside multi-dimensional news sentiment scores across 5 hierarchical levels (Company → Group → Sector → Nation → Global).
 
-### **🎯 Key Innovation**
+### ** Key Innovation**
 - **Multi-Modal Fusion**: First-of-its-kind CNN architecture that treats technical indicators and sentiment data as "financial images"
 - **Hierarchical Sentiment Analysis**: 5-tier sentiment scoring system capturing micro to macro market impacts
 - **Advanced Feature Engineering**: 44 sophisticated technical indicators across 8 specialized modules
@@ -85,27 +85,27 @@ News Data (24 Categories) → Sentiment Analysis Module → 5-Tier Matrix → Se
 
 ### **5-Tier Hierarchical Sentiment Scoring**
 
-#### **🏢 Company Sentiment**
+#### ** Company Sentiment**
 Direct impact on individual stock prices
 - **Examples**: "Infosys wins $2.5B Danske Bank deal", "Paytm banned by RBI"
 - **Scope**: Earnings, governance, regulatory actions, product launches
 
-#### **🏭 Group Sentiment**  
+#### ** Group Sentiment**  
 Conglomerate-level impact across subsidiaries
 - **Examples**: "Adani Green secures $1.4B funding", "Hindenburg Research report"
 - **Scope**: Financing events, reputational shocks, strategic partnerships
 
-#### **🏗️ Sector Sentiment**
+#### ** Sector Sentiment**
 Industry-wide systematic impacts
 - **Examples**: "RBI increases banking risk weights", "PLI scheme for pharma"
 - **Scope**: Regulatory reforms, commodity cycles, policy incentives
 
-#### **🇮🇳 Nation Sentiment**
+#### ** Nation Sentiment**
 Broad Indian market influences
 - **Examples**: "GDP growth hits 8.2%", "CPI inflation rises to 7.4%"
 - **Scope**: Macroeconomic data, fiscal policy, political events
 
-#### **🌍 Global Sentiment**
+#### ** Global Sentiment**
 International spillover effects
 - **Examples**: "Fed pivots to rate cuts", "Silicon Valley Bank collapse"
 - **Scope**: Global monetary policy, commodity cycles, geopolitical risks
