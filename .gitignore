@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# virtualenvs
+venv/
+.env
+
+# jupyter
+.ipynb_checkpoints/
+
+# models / data (adjust as needed)
+*.h5
+*.pt
+*.pth
+*.pkl
+*.csv
+
+# logs
+*.log
+
+# OS files
+.DS_Store
